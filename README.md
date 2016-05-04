@@ -44,7 +44,7 @@ Therefore what's needed is an MDSE app for ODL developers supporting:
 YANGMAN is an application with a simple POSTMAN-inspired user interface. It will be available in a future release of ODL. 
 
 Figure 1 belows depicts an extremely high-level view of the application. 
-![](https://raw.githubusercontent.com/CiscoDevNet/yangman/master/images/yangman-arch.png)
+![](https://raw.githubusercontent.com/CiscoDevNet/yangman/master/images/yangman-arc.png)
 *Figure 1. YANGMAN Architecture*
 
 YANGMAN is an ODL-DLUX based application. It uses the standard ODL software components including MD-SAL and RESTCONF.  Yangtools is an ODL component that reads/processes YANG models loaded into the ODL controller.
