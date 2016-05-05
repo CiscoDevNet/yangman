@@ -1,5 +1,7 @@
 # OpenDaylight YANGMAN
 
+![](https://raw.githubusercontent.com/CiscoDevNet/yangman/master/images/yangman-logo-inline.png)
+
 OpenDaylight (ODL) is an open source application development and delivery platform. YANG is a human-readable language for describing data device and service models. ODL dynamically generates REST APIs from YANG models (referred to as RESTCONF), thus providing ODL apps developers with an immediate baseline set of APIs. YANGMAN is an ODL application offering dynamically generated UI forms and native JSON representation based on RESTCONF APIs. 
 
 ## Team:
