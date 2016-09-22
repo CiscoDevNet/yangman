@@ -1,4 +1,5 @@
-# OpenDaylight YANGMAN
+# OpenDaylight YANGMAN <a style="float:right " href="https://dcloud.cisco.com/"><img src="dcloud.png" alt="IMAGE ALT TEXT HERE" align="right"/></a>   
+
 
 ![](https://raw.githubusercontent.com/CiscoDevNet/yangman/master/images/yangman-logo-inline.png)
 
